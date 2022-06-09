@@ -1,0 +1,90 @@
+prices,address,beds,baths,sq_feet,type,links,sqft_price
+10000000.0, 121 S Dexter Street Denver CO 80246 ,7,10,10268.0,House,https://www.zillow.com/homedetails/121-S-Dexter-St-Denver-CO-80246/13395735_zpid/,973.8994935722634
+3385000.0, 90 S Ivy Street Denver CO 80224 ,6,6,6698.0,House,https://www.zillow.com/homedetails/1735-Central-St-UNIT-311-Denver-CO-80211/337664667_zpid/,505.3747387279785
+2985000.0, 680 S Gilpin Street Denver CO 80209 ,5,5,6396.0,House,https://www.zillow.com/homedetails/680-S-Gilpin-St-Denver-CO-80209/13352536_zpid/,466.69793621013133
+2750000.0, 568 S Gilpin Street Denver CO 80209 ,4,4,4442.0,House,https://www.zillow.com/homedetails/568-S-Gilpin-St-Denver-CO-80209/13352517_zpid/,619.0904997748762
+1895000.0, 423 S Gilpin Street Denver CO 80209 ,4,4,3076.0,House,https://www.zillow.com/homedetails/423-S-Gilpin-St-Denver-CO-80209/13353656_zpid/,616.0598179453837
+1700000.0, 770 N Lafayette Street Denver CO 80218 ,3,4,3236.0,House,https://www.zillow.com/homedetails/770-N-Lafayette-St-Denver-CO-80218/13331129_zpid/,525.3399258343634
+1200000.0, 29 S Oneida Street Denver CO 80230 ,4,4,3432.0,House,https://www.zillow.com/homedetails/29-S-Oneida-St-Denver-CO-80230/247388613_zpid/,349.65034965034965
+1150000.0, 3056 Geneva Street Denver CO 80238 ,4,4,3606.0,House,https://www.zillow.com/homedetails/3056-Geneva-St-Denver-CO-80238/119692913_zpid/,318.91292290626734
+1149000.0, 1420 Columbine Street Denver CO 80206 ,4,3,3339.0,House,https://www.zillow.com/homedetails/1420-Columbine-St-Denver-CO-80206/13325978_zpid/,344.11500449236297
+985000.0, 2560 Champa St Denver CO 80205 ,4,3,2297.0,House,https://www.zillow.com/homedetails/2560-Champa-St-Denver-CO-80205/13318551_zpid/,428.8202002612103
+975000.0, 2325 Forest Street Denver CO 80207 ,3,1,1666.0,House,https://www.zillow.com/homedetails/2325-Forest-St-Denver-CO-80207/13284979_zpid/,585.234093637455
+925000.0, 1420 Bellaire Street Denver CO 80220 ,4,3,2476.0,House,https://www.zillow.com/homedetails/1420-Bellaire-St-Denver-CO-80220/13392742_zpid/,373.5864297253635
+895000.0, 1212 Fillmore Street Denver CO 80206 ,3,2,2156.0,House,https://www.zillow.com/homedetails/1212-Fillmore-St-Denver-CO-80206/13326195_zpid/,415.1205936920223
+895000.0, 3025 Irving Street Denver CO 80211 ,3,1,2352.0,House,https://www.zillow.com/homedetails/3025-Irving-St-Denver-CO-80211/13311134_zpid/,380.52721088435374
+850000.0, 1090 S Madison Street Denver CO 80209 ,3,2,2146.0,House,https://www.zillow.com/homedetails/1090-S-Madison-St-Denver-CO-80209/13351897_zpid/,396.08574091332713
+850000.0, 1738 S Franklin Street Denver CO 80210 ,3,2,2032.0,House,https://www.zillow.com/homedetails/1738-S-Franklin-St-Denver-CO-80210/13371688_zpid/,418.3070866141732
+850000.0, 6425 E Cedar Avenue Denver CO 80224 ,3,4,2182.0,Coming_soon,https://www.zillow.com/homedetails/6425-E-Cedar-Ave-Denver-CO-80224/247389006_zpid/,389.55087076076995
+850000.0, 5841 N Boston Court Denver CO 80238 ,4,4,2640.0,House,https://www.zillow.com/homedetails/4107-Dunkirk-Ct-Denver-CO-80249/13274983_zpid/,321.969696969697
+850000.0, 1444 Elm Street Denver CO 80220 ,3,2,2155.0,House,https://www.zillow.com/homedetails/1444-Elm-St-Denver-CO-80220/13392057_zpid/,394.43155452436196
+849900.0, 6741 E Cornell Avenue Denver CO 80224 ,4,3,2920.0,House,https://www.zillow.com/homedetails/6741-E-Cornell-Ave-Denver-CO-80224/13415818_zpid/,291.06164383561645
+829000.0, 5648 S Gray Street Denver CO 80123 ,5,4,3618.0,House,https://www.zillow.com/homedetails/5648-S-Gray-St-Denver-CO-80123/13432995_zpid/,229.13211719181868
+800000.0, 3213 S Boston Court Denver CO 80231 ,4,3,2844.0,House,https://www.zillow.com/homedetails/3213-S-Boston-Ct-Denver-CO-80231/13420107_zpid/,281.29395218002816
+790000.0, 3025 Albion Street Denver CO 80207 ,3,2,1765.0,House,https://www.zillow.com/homedetails/3025-Albion-St-Denver-CO-80207/13283503_zpid/,447.59206798866853
+780000.0, 5960 W Milan Place Denver CO 80235 ,3,3,2861.0,House,https://www.zillow.com/homedetails/5960-W-Milan-Pl-Denver-CO-80235/13429756_zpid/,272.6319468717232
+775000.0, 2244 Uinta Street Denver CO 80238 ,3,4,2572.0,Coming_soon,https://www.zillow.com/homedetails/2244-Uinta-St-Denver-CO-80238/2065636044_zpid/,301.3219284603421
+774999.0, 3275 S Dahlia Street Denver CO 80222 ,4,2,2284.0,Coming_soon,https://www.zillow.com/homedetails/3275-S-Dahlia-St-Denver-CO-80222/13414766_zpid/,339.3165499124343
+750000.0, 1400 Glencoe Street Denver CO 80220 ,4,2,2282.0,Coming_soon,https://www.zillow.com/homedetails/1400-Glencoe-St-Denver-CO-80220/13392008_zpid/,328.65907099035934
+700000.0, 4865 Stuart Street Denver CO 80212 ,3,2,1997.0,House,https://www.zillow.com/homedetails/4865-Stuart-St-Denver-CO-80212/13293687_zpid/,350.52578868302453
+680000.0, 2891 S Kearney Street Denver CO 80222 ,5,2,2160.0,House,https://www.zillow.com/homedetails/2891-S-Kearney-St-Denver-CO-80222/13056639_zpid/,314.81481481481484
+680000.0, 3800 Umatilla Street Denver CO 80211 ,4,2,2498.0,House,https://www.zillow.com/homedetails/3800-Umatilla-St-Denver-CO-80211/13299942_zpid/,272.2177742193755
+675000.0, 3527 W 45th Avenue Denver CO 80211 ,2,2,1019.0,House,https://www.zillow.com/homedetails/3527-W-45th-Ave-Denver-CO-80211/13297115_zpid/,662.4141315014721
+675000.0, 5040 W Vassar Avenue Denver CO 80219 ,4,2,2160.0,House,https://www.zillow.com/homedetails/5040-W-Vassar-Ave-Denver-CO-80219/13382871_zpid/,312.5
+674900.0, 2814 W 4th Avenue Denver CO 80219 ,3,3,1856.0,Multi-family,https://www.zillow.com/homedetails/2814-W-4th-Ave-Denver-CO-80219/2064310514_zpid/,363.6314655172414
+630000.0, 46 Xavier Street Denver CO 80219 ,5,2,1782.0,House,https://www.zillow.com/homedetails/46-Xavier-St-Denver-CO-80219/13339508_zpid/,353.5353535353535
+619000.0, 848 Knox Court Denver CO 80204 ,3,2,1381.0,House,https://www.zillow.com/homedetails/848-Knox-Ct-Denver-CO-80204/13335889_zpid/,448.2259232440261
+615000.0, 2460 W 29th Avenue  Unit 302 Denver CO 80211 ,2,2,1175.0,Condo,https://www.zillow.com/homedetails/2460-W-29th-Ave-UNIT-302-Denver-CO-80211/82593962_zpid/,523.4042553191489
+600000.0, 2645 Kearney Street Denver CO 80207 ,3,1,1345.0,House,https://www.zillow.com/homedetails/2645-Kearney-St-Denver-CO-80207/13281873_zpid/,446.09665427509293
+599000.0, 1776 Race Street  Unit 305 Denver CO 80206 ,2,2,1230.0,Condo,https://www.zillow.com/homedetails/5841-N-Boston-Ct-Denver-CO-80238/247392191_zpid/,486.9918699186992
+599000.0, 4015 W Kenyon Avenue Denver CO 80236 ,4,3,2180.0,House,https://www.zillow.com/homedetails/1776-Race-St-APT-305-Denver-CO-80206/71720205_zpid/,274.77064220183485
+597000.0, 1881 S Meade Street Denver CO 80219 ,3,2,2335.0,House,https://www.zillow.com/homedetails/1881-S-Meade-St-Denver-CO-80219/13364608_zpid/,255.6745182012848
+579000.0, 4765 N Kittredge Street Denver CO 80239 ,3,3,2347.0,House,https://www.zillow.com/homedetails/90-S-Ivy-St-Denver-CO-80224/13397153_zpid/,246.69791222837665
+575000.0, 1788 W Tennessee Avenue Denver CO 80223 ,3,2,1122.0,House,https://www.zillow.com/homedetails/1788-W-Tennessee-Ave-Denver-CO-80223/13357797_zpid/,512.4777183600713
+570000.0, 4107 Dunkirk Court Denver CO 80249 ,3,3,2107.0,House,https://www.zillow.com/homedetails/937-W-Ellsworth-Ave-Denver-CO-80223/13342809_zpid/,270.5268153773137
+561900.0, Branson Plan Green Valley Ranch ,4,3,2635.0,New_construction,https://www.zillow.com/homedetails/4765-Kittredge-St-Denver-CO-80239/247392177_zpid/,213.24478178368122
+559000.0, 953 S Washington Street Denver CO 80209 ,2,1,1067.0,Multi-family,https://www.zillow.com/homedetails/953-S-Washington-St-Denver-CO-80209/13356617_zpid/,523.8987816307404
+550000.0, 2582 S Xavier Street Denver CO 80219 ,3,2,1890.0,House,https://www.zillow.com/homedetails/2582-S-Xavier-St-Denver-CO-80219/13382748_zpid/,291.005291005291
+550000.0, 4582 Walden Way Denver CO 80249 ,3,3,2319.0,House,https://www.zillow.com/homedetails/4582-Walden-Way-Denver-CO-80249/118268414_zpid/,237.17119448037948
+549000.0, 3892 Perry Street Denver CO 80212 ,2,1,794.0,Multi-family,https://www.zillow.com/homedetails/3892-Perry-St-Denver-CO-80212/109685267_zpid/,691.4357682619648
+549000.0, 3025 Ivanhoe Street Denver CO 80207 ,5,3,2196.0,House,https://www.zillow.com/homedetails/3025-Ivanhoe-St-Denver-CO-80207/13281454_zpid/,250.0
+549000.0, 925 N Lincoln Street  Unit 6g-S Denver CO 80203 ,2,2,1325.0,Condo,https://www.zillow.com/homedetails/925-Lincoln-St-6G-Denver-CO-80203/2101085321_zpid/,414.33962264150944
+549000.0, 129 King Street Denver CO 80219 ,3,2,1665.0,House,https://www.zillow.com/homedetails/129-King-St-Denver-CO-80219/13341171_zpid/,329.72972972972974
+539000.0, 4930 Decatur Street Denver CO 80221 ,2,2,1048.0,House,https://www.zillow.com/homedetails/4930-Decatur-St-Denver-CO-80221/13292878_zpid/,514.3129770992366
+529950.0, 6631 N Ceylon Street Denver CO 80249 ,4,3,1869.0,Townhouse,https://www.zillow.com/homedetails/6631-N-Ceylon-St-Denver-CO-80249/337663917_zpid/,283.5473515248796
+500000.0, 245 Hazel Court Denver CO 80219 ,3,2,1385.0,House,https://www.zillow.com/homedetails/245-N-Hazel-Ct-Denver-CO-80219/13340999_zpid/,361.01083032490976
+499999.0, 4850 Clay Street Denver CO 80221 ,2,2,850.0,House,https://www.zillow.com/homedetails/4850-Clay-St-Denver-CO-80221/13293006_zpid/,588.2341176470588
+499000.0, 15086 E 43rd Avenue Denver CO 80239 ,3,2,1320.0,House,https://www.zillow.com/homedetails/15086-E-43rd-Ave-Denver-CO-80239/13273613_zpid/,378.030303030303
+495000.0, 1170 S Eliot Street Denver CO 80219 ,2,1,1254.0,House,https://www.zillow.com/homedetails/1170-S-Eliot-St-Denver-CO-80219/13365005_zpid/,394.7368421052632
+485000.0, 2747 W Amherst Avenue Denver CO 80236 ,4,2,1992.0,House,https://www.zillow.com/homedetails/2747-W-Amherst-Ave-Denver-CO-80236/13385742_zpid/,243.4738955823293
+475000.0, 19929 Randolph Place Denver CO 80249 ,3,3,1494.0,House,https://www.zillow.com/homedetails/19929-Randolph-Pl-Denver-CO-80249/72297875_zpid/,317.9384203480589
+474900.0, 1300 Garfield Street  Unit 8 Denver CO 80206 ,2,3,1117.0,Townhouse,https://www.zillow.com/homedetails/1300-Garfield-St-APT-8-Denver-CO-80206/123602291_zpid/,425.1566696508505
+450000.0, 1313 N Williams Street  Unit 1205 Denver CO 80218 ,1,2,1235.0,Condo,https://www.zillow.com/homedetails/1313-N-Williams-St-APT-1205-Denver-CO-80218/13328652_zpid/,364.3724696356275
+447500.0, 16040 E Warner Place Denver CO 80239 ,3,3,1538.0,Townhouse,https://www.zillow.com/homedetails/16040-E-Warner-Pl-Denver-CO-80239/251843382_zpid/,290.962288686606
+439900.0, 1735 Central Street  Unit 311 Denver CO 80211 ,1,1,622.0,Condo,https://www.zillow.com/homedetails/4015-W-Kenyon-Ave-Denver-CO-80236/13427271_zpid/,707.2347266881029
+432500.0, 2709 W Bates Avenue Denver CO 80236 ,4,2,1844.0,House,https://www.zillow.com/homedetails/2709-W-Bates-Ave-Denver-CO-80236/13385839_zpid/,234.54446854663775
+425000.0, 1175 Vine Street  Unit 305 Denver CO 80206 ,2,2,987.0,Condo,https://www.zillow.com/homedetails/1175-N-Vine-St-APT-305-Denver-CO-80206/13329233_zpid/,430.5977710233029
+425000.0, 4765 Gaylord Street Denver CO 80216 ,3,2,1088.0,House,https://www.zillow.com/homedetails/4765-Gaylord-St-Denver-CO-80216/13301149_zpid/,390.625
+425000.0, 4901 Bryant Street Denver CO 80221 ,2,1,1236.0,House,https://www.zillow.com/homedetails/4901-Bryant-St-Denver-CO-80221/13292858_zpid/,343.85113268608416
+425000.0, 2346 S Linley Court Denver CO 80219 ,2,1,883.0,House,https://www.zillow.com/homedetails/2346-S-Linley-Ct-Denver-CO-80219/13380607_zpid/,481.3137032842582
+415000.0, 9236 E Mansfield Avenue Denver CO 80237 ,3,3,1408.0,Townhouse,https://www.zillow.com/homedetails/9236-E-Mansfield-Ave-Denver-CO-80237/13421580_zpid/,294.7443181818182
+390000.0, 2193 Arapahoe Street  Unit 16 Denver CO 80205 ,1,1,687.0,Condo,https://www.zillow.com/homedetails/2193-Arapahoe-St-APT-16-Denver-CO-80205/71720170_zpid/,567.6855895196506
+385000.0, 3335 N Columbine Street Denver CO 80205 ,1,1,1058.0,House,https://www.zillow.com/homedetails/3335-N-Columbine-St-Denver-CO-80205/13303536_zpid/,363.89413988657844
+380000.0, 2550 Washington Street  Unit 211 Denver CO 80205 ,2,2,874.0,Condo,https://www.zillow.com/homedetails/2550-N-Washington-St-SUITE-211-Denver-CO-80205/63358706_zpid/,434.7826086956522
+371000.0, 2785 W 2nd Avenue Denver CO 80219 ,2,1,744.0,Multi-family,https://www.zillow.com/homedetails/2785-W-2nd-Ave-Denver-CO-80219/130251612_zpid/,498.6559139784946
+365000.0, 4100 Albion Street  Unit 221 Denver CO 80216 ,2,2,1160.0,Condo,https://www.zillow.com/homedetails/4100-N-Albion-St-UNIT-221-Denver-CO-80207/64800904_zpid/,314.6551724137931
+350000.0, 2855 Jasmine Street Denver CO 80207 ,2,1,906.0,Townhouse,https://www.zillow.com/homedetails/2855-Jasmine-St-Denver-CO-80207/58683955_zpid/,386.31346578366447
+349900.0, 9335 E Center Avenue  Unit 6b Denver CO 80247 ,2,2,1470.0,Condo,https://www.zillow.com/homedetails/9335-E-Center-Ave-APT-6B-Denver-CO-80247/13400096_zpid/,238.02721088435374
+320000.0, 1251 S Yosemite Way  Unit 91 Denver CO 80247 ,2,2,1156.0,Townhouse,https://www.zillow.com/homedetails/1251-S-Yosemite-Way-UNIT-91-Denver-CO-80247/13046318_zpid/,276.8166089965398
+319000.0, 7995 E Mississippi Avenue  Unit H9 Denver CO 80247 ,2,2,1142.0,Townhouse,https://www.zillow.com/homedetails/7995-E-Mississippi-Ave-APT-H9-Denver-CO-80247/13402450_zpid/,279.3345008756567
+300000.0, 2201 S Holly Street  Unit 4 Denver CO 80222 ,2,2,1554.0,Coming_soon,https://www.zillow.com/homedetails/2201-S-Holly-St-APT-4-Denver-CO-80222/13413121_zpid/,193.05019305019306
+299900.0, 15475 Andrews Drive  Unit 308 Denver CO 80239 ,2,2,1278.0,Condo,https://www.zillow.com/homedetails/15475-E-Andrews-Dr-308-Denver-CO-80239/61470046_zpid/,234.66353677621282
+299000.0, 1285 Colorado Boulevard  Unit 3 Denver CO 80206 ,2,2,770.0,Condo,https://www.zillow.com/homedetails/1285-Colorado-Blvd-APT-3-Denver-CO-80206/13325474_zpid/,388.31168831168833
+289995.0, 7395 E Eastman Avenue  Unit N206 Denver CO 80231 ,1,2,888.0,Condo,https://www.zillow.com/homedetails/7395-E-Eastman-Ave-APT-N206-Denver-CO-80231/2082097107_zpid/,326.57094594594594
+275000.0, 9444 E Girard Avenue  Unit 12 Denver CO 80231 ,2,2,1004.0,Condo,https://www.zillow.com/homedetails/9444-E-Girard-Ave-APT-12-Denver-CO-80231/13420284_zpid/,273.9043824701195
+250000.0, 3121 S Tamarac Drive  Unit J205 Denver CO 80231 ,1,1,728.0,Condo,https://www.zillow.com/homedetails/3121-S-Tamarac-Dr-APT-J205-Denver-CO-80231/2062972650_zpid/,343.4065934065934
+249900.0, 9725 E Harvard Avenue  Unit T300 Denver CO 80231 ,2,2,1138.0,Condo,https://www.zillow.com/homedetails/9725-E-Harvard-Ave-APT-T300-Denver-CO-80231/2062923096_zpid/,219.5957820738137
+240000.0, 1121 Albion Street  Unit 604 Denver CO 80220 ,1,1,604.0,Condo,https://www.zillow.com/homedetails/1121-N-Albion-St-APT-604-Denver-CO-80220/13393106_zpid/,397.35099337748346
+230000.0, 6800 E Tennessee Avenue  Unit 131 Denver CO 80224 ,2,1,864.0,Condo,https://www.zillow.com/homedetails/6800-E-Tennessee-Ave-APT-131-Denver-CO-80224/13404176_zpid/,266.2037037037037
+185000.0, 5995 W Hampden Avenue  Unit 7 Denver CO 80227 ,1,1,617.0,Coming_soon,https://www.zillow.com/homedetails/5995-W-Hampden-Ave-7-Denver-CO-80227/13324884_zpid/,299.837925445705
+185000.0, 655 S Clinton Street  Unit 10b Denver CO 80247 ,1,1,712.0,Multi-family,https://www.zillow.com/homedetails/655-S-Clinton-St-APT-10B-Denver-CO-80247/13398712_zpid/,259.8314606741573
